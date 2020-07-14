@@ -1,6 +1,6 @@
 # Parkinson-Disease-Detector
 
-Join me at www.dakshtrehan.com
+Join me at www.dakshtrehan.com || www.linkedin.com/in/dakshtrehan
 
 The aim is to detect Parkinson disease based on suitable features.
 
