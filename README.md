@@ -1,5 +1,7 @@
 # Parkinson-Disease-Detector
 
+Join me at www.dakshtrehan.com
+
 The aim is to detect Parkinson disease based on suitable features.
 
 1. Problem type :- Classification
